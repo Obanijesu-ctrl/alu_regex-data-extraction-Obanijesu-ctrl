@@ -1,0 +1,13 @@
+Personal Information:
+Email: john.doe@example.com
+Website: https://www.johndoe.com
+Phone: (555) 123-4567
+Credit Card: 1234 5678 9012 3456
+Meeting Time: 3:30 PM
+
+<div class="container">
+  <p>This is a paragraph</p>
+</div>
+
+#dataextraction #regex #python
+Product costs $199.99 or $1,234.56
